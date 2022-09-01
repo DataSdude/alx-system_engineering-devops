@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lA $pwd;ls -lA ~/; ls -lA /boot 
+ls -lA . .. /boot 
