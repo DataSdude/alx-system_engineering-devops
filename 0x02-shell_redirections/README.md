@@ -1,1 +1,1 @@
-This directory is dedicated for I/O redirections, Special characters and other man pages scripts
+This project covers basic concepts in Shell, I/O Redirections and filters
